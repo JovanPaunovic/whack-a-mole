@@ -1,5 +1,5 @@
 const molePaths = ["images/mole1.png", "images/mole2.png", "images/mole3.png"];
-const intervals=[1600, 1300, 1000, 700, 550]
+const intervals=[1600, 1300, 1000, 700, 550];
 const mole = document.getElementById("mole");
 const background = document.getElementById("background");
 const shotsLabel = document.getElementById("shots");
